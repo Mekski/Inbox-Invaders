@@ -1,8 +1,9 @@
-# Inbox Invaders
+# Inbox Invaders (2nd Place Roblox Civility Challenge Winners!)
 
 > Built for **LA Hacks 2026** — Track 3: Safety
 
 **Play it:** https://www.roblox.com/games/86299320607236/Inbox-Invaders
+
 **Devpost:** https://devpost.com/software/1256252
 
 ## What it is
